@@ -1,6 +1,6 @@
 ## Libra dockerized !
 
-This is Docker image i built to run the official  [Libra](https://libra.org) doc sample doc [for executing your first transaction on the Libra Blockchain](https://developers.libra.org/docs/my-first-transaction)
+This is Docker image built to run the official [Libra](https://libra.org) doc sample doc [for executing your first transaction on the Libra Blockchain](https://developers.libra.org/docs/my-first-transaction)
 
 ### The docker libradevbox
 
